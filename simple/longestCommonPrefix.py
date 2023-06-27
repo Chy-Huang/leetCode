@@ -34,6 +34,7 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
     print(solution.longestCommonPrefix(["flower", "flow", "flight"]))
+    print(solution.longestCommonPrefix_On(["flower", "flow", "floight"]))
 
 
 
