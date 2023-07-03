@@ -12,4 +12,4 @@ class Solution:
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.plusOne([9, 9]))
+    print(solution.plusOne([9, 9, 9]))
